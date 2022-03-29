@@ -1,0 +1,22 @@
+{
+  "doors": [
+    {
+      "firstname": "Vivek12",
+      "lastname": "Koyani",
+      "username": "Vivek Koyani",
+      "city": "Surat",
+      "state": "Gujrat",
+      "zip": "909090",
+      "id": 4
+    },
+    {
+      "firstname": "Test ",
+      "lastname": "LOL",
+      "username": "LOol",
+      "city": "DDD",
+      "state": "ADFS",
+      "zip": "00000",
+      "id": 5
+    }
+  ]
+}
